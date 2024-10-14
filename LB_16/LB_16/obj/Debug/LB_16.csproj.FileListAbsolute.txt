@@ -1,0 +1,20 @@
+C:\Users\Администратор\source\repos\LB_16\LB_16\bin\Debug\LB_16.exe.config
+C:\Users\Администратор\source\repos\LB_16\LB_16\bin\Debug\LB_16.exe
+C:\Users\Администратор\source\repos\LB_16\LB_16\bin\Debug\LB_16.pdb
+C:\Users\Администратор\source\repos\LB_16\LB_16\obj\Debug\LB_16.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\LB_16\LB_16\obj\Debug\LB_16.Form1.resources
+C:\Users\Администратор\source\repos\LB_16\LB_16\obj\Debug\LB_16.Properties.Resources.resources
+C:\Users\Администратор\source\repos\LB_16\LB_16\obj\Debug\LB_16.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\LB_16\LB_16\obj\Debug\LB_16.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\LB_16\LB_16\obj\Debug\LB_16.exe
+C:\Users\Администратор\source\repos\LB_16\LB_16\obj\Debug\LB_16.pdb
+C:\Users\User\Desktop\Учеба\3 курс\МДК 05.02\LB_16\LB_16\bin\Debug\LB_16.exe.config
+C:\Users\User\Desktop\Учеба\3 курс\МДК 05.02\LB_16\LB_16\bin\Debug\LB_16.exe
+C:\Users\User\Desktop\Учеба\3 курс\МДК 05.02\LB_16\LB_16\bin\Debug\LB_16.pdb
+C:\Users\User\Desktop\Учеба\3 курс\МДК 05.02\LB_16\LB_16\obj\Debug\LB_16.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\3 курс\МДК 05.02\LB_16\LB_16\obj\Debug\LB_16.Form1.resources
+C:\Users\User\Desktop\Учеба\3 курс\МДК 05.02\LB_16\LB_16\obj\Debug\LB_16.Properties.Resources.resources
+C:\Users\User\Desktop\Учеба\3 курс\МДК 05.02\LB_16\LB_16\obj\Debug\LB_16.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Учеба\3 курс\МДК 05.02\LB_16\LB_16\obj\Debug\LB_16.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\3 курс\МДК 05.02\LB_16\LB_16\obj\Debug\LB_16.exe
+C:\Users\User\Desktop\Учеба\3 курс\МДК 05.02\LB_16\LB_16\obj\Debug\LB_16.pdb
