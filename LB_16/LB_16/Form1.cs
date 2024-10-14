@@ -29,6 +29,7 @@ namespace LB_16
                     b = a - float.Parse(textBox1.Text);
                     textBox1.Text = b.ToString();
                     break;
+                    
                 case 3:
                     b = a * float.Parse(textBox1.Text);
                     textBox1.Text = b.ToString();
